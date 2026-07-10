@@ -1,0 +1,6 @@
+{
+    "name": "lenovo/10k",
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
